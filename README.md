@@ -11,10 +11,10 @@ connection if a person chooses to watch a meme, the bot responds with a message 
 by selecting the type the bot takes the last 10 records from the database and shows them to the user
 
 The second bot is created only for the administration of the first one, with its help you can
-1 add new entries
-2 Add new admins
-3 Consider feedback
-4 Mass notify the main bot users
+1. add new entries
+2. Add new admins
+3. Consider feedback
+4. Mass notify the main bot users
 
 Also attached to the project is a database with ready-made memes and anecdotes on which performance tests were conducted
 
