@@ -18,6 +18,7 @@ The second bot is created only for the administration of the first one, with its
 
 Also attached to the project is a database with ready-made memes and anecdotes on which performance tests were conducted
 
-Here's a diagram of how it works
-![image](https://github.com/Aart17/my_tg_bot/files/14628194/diagram.1.pdf)
+Here's a diagram of how it works:
+
+![diagramm](https://github.com/Aart17/my_tg_bot/files/14628194/diagram.1.pdf)
 
