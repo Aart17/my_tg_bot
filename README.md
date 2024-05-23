@@ -1,7 +1,7 @@
 ## Creator: aart17
 #### Programming language: Python 3.9
 #### Library: telebot
-#### Time of creation: 11/15/2023
+#### Time of creation: 11.15.2023
 ________
 
 This project consists of two telegram bots linked by a database
@@ -19,5 +19,5 @@ The second bot is created only for the administration of the first one, with its
 Also attached to the project is a database with ready-made memes and anecdotes on which performance tests were conducted
 
 Here's a diagram of how it works
-![diagram](https://github.com/Aart17/my_tg_bot/files/14628194/diagram.1.pdf)
+![image](https://github.com/Aart17/my_tg_bot/files/14628194/diagram.1.pdf)
 
